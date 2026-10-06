@@ -1,4 +1,4 @@
-# 🦇🍳 BATPAN VibeCoder
+# 🦇 BATPAN VibeCoder 🍳
 
 [![Version](https://img.shields.io/badge/version-ver2.2.05-facc15?style=flat-square&labelColor=292524)](https://github.com/BATPANn/BP_VibeCoder)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square)](https://www.python.org/)
