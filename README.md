@@ -51,27 +51,45 @@ Inspired by developer workflow tools like [FileCombiner](https://github.com/mehr
 | **Scripts & Docs** | `.sh` (Bash), `.bat` (Batch), `.ps1` (PowerShell), `.md` (Markdown), `.txt` |
 
 ---
+## 📥 Installation (Fresh PC Setup)
 
-## 📥 Installation
+Follow these steps to run BATPAN VibeCoder on any brand-new computer:
 
-### Prerequisites
-* Python 3.10 or newer installed.
+### 1. Install Python
+If Python is not installed on your system:
+* **Via Windows Command Prompt (Fastest):**
+  ```cmd
+  winget install Python.Python.3.12
+  ```
+* **Or Manual Download:**
+  Download the installer from [python.org](https://www.python.org/downloads/).  
+  *(Make sure to check the box **"Add python.exe to PATH"** during setup).*
 
-### Setup Steps (Run in Command Prompt / Terminal)
-1. Clone the repository:
-   ```cmd
-   git clone [https://github.com/BATPANn/BP_VibeCoder.git](https://github.com/BATPANn/BP_VibeCoder.git)
-   cd BP_VibeCoder
-   ```
-2. Install the required dependency directly via CMD:
-   ```cmd
-   pip install PyQt6
-   ```
-3. Launch the application:
-   ```cmd
-   python BP_VibeCoder_v2.2.05.pyw
-   ```
-   *(Running the `.pyw` file starts the interface directly without opening a background terminal window.)*
+---
+
+### 2. Download the Project
+Clone the repository using Git:
+```cmd
+git clone [https://github.com/BATPANn/BP_VibeCoder.git](https://github.com/BATPANn/BP_VibeCoder.git)
+cd BP_VibeCoder
+```
+*Alternatively, click **Code -> Download ZIP** on GitHub, extract the archive, and open a terminal inside the folder.*
+
+---
+
+### 3. Install Required Dependencies
+Install PyQt6 directly via Command Prompt:
+```cmd
+pip install PyQt6
+```
+
+---
+
+### 4. Launch Application
+```cmd
+python BP_VibeCoder_v2.2.05.pyw
+```
+*(You can also double-click `BP_VibeCoder_v2.2.05.pyw` in Windows Explorer to launch it directly without keeping a console window open).*
 
 ---
 
