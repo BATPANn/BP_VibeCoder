@@ -52,26 +52,26 @@ Inspired by developer workflow tools like [FileCombiner](https://github.com/mehr
 
 ---
 
-## 📥 Installation & Setup
+## 📥 Installation
 
 ### Prerequisites
 * Python 3.10 or newer installed.
 
-### Setup Steps
+### Setup Steps (Run in Command Prompt / Terminal)
 1. Clone the repository:
-   ```bash
+   ```cmd
    git clone [https://github.com/BATPANn/BP_VibeCoder.git](https://github.com/BATPANn/BP_VibeCoder.git)
    cd BP_VibeCoder
    ```
-2. Install required packages:
-   ```bash
-   pip install -r requirements.txt
+2. Install the required dependency directly via CMD:
+   ```cmd
+   pip install PyQt6
    ```
-3. Run the application:
-   ```bash
+3. Launch the application:
+   ```cmd
    python BP_VibeCoder_v2.2.05.pyw
    ```
-   *(Using the `.pyw` extension launches the GUI without an underlying terminal window.)*
+   *(Running the `.pyw` file starts the interface directly without opening a background terminal window.)*
 
 ---
 
