@@ -104,6 +104,7 @@ If BATPAN VibeCoder accelerates your development workflow, you can support conti
 
 * **USDT (TRC-20):** TXDxZuRFUP7E5DRGd2gtymRVZxKnxksX5C
 * **USDT (BEP-20 / ERC-20):** UQDqreMdp21PzFXWzpJQ2MTMcnOzL7mi0rfmyIA0N0gddpBg
+* (No memo needed for TON).
 
 *(Please verify the chosen network matches before executing transactions.)*
 
