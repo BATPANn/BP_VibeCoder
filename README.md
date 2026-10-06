@@ -102,8 +102,8 @@ Inspired by developer workflow tools like [FileCombiner](https://github.com/mehr
 
 If BATPAN VibeCoder accelerates your development workflow, you can support continued updates via cryptocurrency:
 
-* **USDT (TRC-20):** `YOUR_TRC20_WALLET_ADDRESS`
-* **USDT (BEP-20 / ERC-20):** `YOUR_BEP20_WALLET_ADDRESS`
+* **USDT (TRC-20):** TXDxZuRFUP7E5DRGd2gtymRVZxKnxksX5C
+* **USDT (BEP-20 / ERC-20):** UQDqreMdp21PzFXWzpJQ2MTMcnOzL7mi0rfmyIA0N0gddpBg
 
 *(Please verify the chosen network matches before executing transactions.)*
 
