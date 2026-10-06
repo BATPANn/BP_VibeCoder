@@ -4,6 +4,7 @@
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square)](https://www.python.org/)
 [![UI](https://img.shields.io/badge/UI-PyQt6-4ade80?style=flat-square)](https://pypi.org/project/PyQt6/)
 [![License](https://img.shields.io/badge/license-MIT-38bdf8?style=flat-square)](LICENSE)
+![BATPAN VibeCoder UI](preview.png)
 
 **BATPAN VibeCoder** is a standalone desktop developer utility built with PyQt6 designed to package, filter, and format full source repositories, nested folders, and copied code snippets into clean, AI-ready Markdown or text representations.
 
